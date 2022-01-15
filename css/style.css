@@ -63,7 +63,7 @@ nav{
     align-items: flex-end;
 }
 .top-right img{
-    width: 100%;
+    width: 90%;
 }
 .single-button{
     outline: 0;
@@ -85,6 +85,7 @@ nav{
 
 }
 .top-right{
-	background-image: url("./images/Circle design.svg");
+	background-image: url("../images/Circle design.svg");
 	background-repeat: no-repeat;
+	background-position: right;
 }
