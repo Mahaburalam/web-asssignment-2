@@ -131,6 +131,9 @@ nav{
     height: 256px;
     margin: 17px 15px 0 14px;
 }
+.popular-details{
+    margin-left: 14px;
+}
 .popular-details .popular-title{
     font-size: 28px;
 }
@@ -141,6 +144,7 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+    margin-left: 14px;
     /*background-color: black;*/
 }
 .popular-info > div > p{
@@ -159,6 +163,7 @@ nav{
 	width: 100%;
 	height: 200px;
 	background-color: black;
+    margin-top: 75px;
 }
 .bottom .bottom-details{
 	border: 2px solid;
